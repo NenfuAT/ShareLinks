@@ -1,14 +1,14 @@
 [
 	{
-	  "Name": "Your Name",
+	  "Name": "NenfuAT",
 	  "Description": "Your Profile",
 	  "Icon": "your icon link (Ex: https://exaple.con/icon.png)",
 	  "Links": [
 		{ "alt": "Twitter", "url": "https://twitter.com/" },
-		{ "alt": "Github", "url": "https://github.com/" },
+		{ "alt": "Github", "url": "https://github.com/NenfuAT" },
 		{ "alt": "Article", "url": "https://hatenablog.com/" },
 		{ "alt": "Qiita", "url": "https://qiita.com/" },
-		{ "alt": "Zenn", "url": "https://zenn.dev/" },
+		{ "alt": "Zenn", "url": "https://zenn.dev/nenfa" },
 		{ "alt": "Youtube", "url": "https://www.youtube.com/" }
 	  ],
 	  "article": [
