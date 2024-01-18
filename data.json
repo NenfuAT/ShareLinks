@@ -2,7 +2,7 @@
 	{
 	  "Name": "NenfuAT",
 	  "Description": "kjilab b3",
-	  "Icon": "img/ika.png",
+	  "Icon": "https://github.com/NenfuAT/ShareLinks/blob/main/img/ika.png?raw=true",
 	  "Links": [
 		{ "alt": "Twitter", "url": "https://twitter.com/" },
 		{ "alt": "Github", "url": "https://github.com/NenfuAT" },
