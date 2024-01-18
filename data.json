@@ -1,15 +1,12 @@
 [
 	{
 	  "Name": "NenfuAT",
-	  "Description": "Your Profile",
+	  "Description": "kjilab b3",
 	  "Icon": "your icon link (Ex: https://exaple.con/icon.png)",
 	  "Links": [
 		{ "alt": "Twitter", "url": "https://twitter.com/" },
 		{ "alt": "Github", "url": "https://github.com/NenfuAT" },
-		{ "alt": "Article", "url": "https://hatenablog.com/" },
-		{ "alt": "Qiita", "url": "https://qiita.com/" },
-		{ "alt": "Zenn", "url": "https://zenn.dev/nenfa" },
-		{ "alt": "Youtube", "url": "https://www.youtube.com/" }
+		{ "alt": "Zenn", "url": "https://zenn.dev/nenfa" }
 	  ],
 	  "article": [
 		{
